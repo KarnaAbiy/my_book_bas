@@ -2,10 +2,7 @@
 My group is planning to create an online library that will provide easy access to a wide selection of books in various formats. The project is aimed at meeting the needs of different user groups—students, researchers, educators, and anyone interested in reading. We are developing a system that will allow users to search for and read books online, as well as track their reading history and save bookmarks.
 
 # Our team
-Our team consists of three people, namely:
-Karmyshev Abiy
-Allonbaev Sardor
-Tashmatov Bekmamat
+Our team consists of three people, namely: Karmyshev Abiy, Allonbaev Sardor, Tashmatov Bekmamat
 
 # This is my team's general plan:
 link is here: [plan](https://www.figma.com/board/nff6u4ZaHH78uIwsFE6C8H/Untitled?node-id=0-1&t=GpElfvKa6EFPdJJy-1)
