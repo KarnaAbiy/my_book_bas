@@ -1,12 +1,13 @@
 # my_book_bas
 
-![Screenshot (11)](https://github.com/user-attachments/assets/02ef7238-eb01-4f99-8aee-4b42fb89b3bf)
-![Screenshot (1)](https://github.com/user-attachments/assets/da4dc885-4d70-421e-9cec-273c0ebebf28)
-![Screenshot (3)](https://github.com/user-attachments/assets/ea452897-27c2-4c8d-8319-7063456927e3)
-![Screenshot (5)](https://github.com/user-attachments/assets/dfbd5748-c2cb-4032-9e7f-922478649aef)
-![Screenshot (6)](https://github.com/user-attachments/assets/ccb50e30-ebb1-4aae-84fa-9c169dfb77c0)
-![Screenshot (2)](https://github.com/user-attachments/assets/2f61c5f9-08d0-4a82-9cb8-eca2bfc5f354)
-![Screenshot (8)](https://github.com/user-attachments/assets/23f7a6f4-990d-4234-a878-baa3095bf6a9)
-![Screenshot (9)](https://github.com/user-attachments/assets/bf888e8d-cf37-4e4f-bdd0-986924d0a91c)
-![Screenshot (10)](https://github.com/user-attachments/assets/b04fa8e5-09d2-40b3-9244-26e4b1f4eb33)
+![Screenshot (11)](https://github.com/user-attachments/assets/94975437-6b4f-4450-a156-ed97a84719f4)
+![Screenshot (1)](https://github.com/user-attachments/assets/f1fc4aa9-15bb-47be-ada8-144cdfd7bf49)
+![Screenshot (3)](https://github.com/user-attachments/assets/5271d2cc-4b73-4c15-90fd-653440d0776d)
+![Screenshot (5)](https://github.com/user-attachments/assets/f5b73ed7-d09c-488c-8bd5-f1758ce24de1)
+![Screenshot (6)](https://github.com/user-attachments/assets/baf46d5a-7386-4a7f-acf1-131842f6d2fd)
+![Screenshot (2)](https://github.com/user-attachments/assets/9d98fb8f-6471-441e-9a61-f4816741283d)
+![Screenshot (8)](https://github.com/user-attachments/assets/4a5e2a6b-6c42-443d-b95f-d2713f0109b9)
+![Screenshot (9)](https://github.com/user-attachments/assets/b2e066f7-81c1-44dc-9d44-07a13c4c0684)
+![Screenshot (10)](https://github.com/user-attachments/assets/be9ca203-9fe5-43ef-a20a-1a880b39ef54)
+
 
