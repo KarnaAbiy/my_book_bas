@@ -19,7 +19,7 @@ link is here: [plan](https://www.figma.com/board/nff6u4ZaHH78uIwsFE6C8H/Untitled
 ![Screenshot (9)](https://github.com/user-attachments/assets/b2e066f7-81c1-44dc-9d44-07a13c4c0684)
 ![Screenshot (10)](https://github.com/user-attachments/assets/be9ca203-9fe5-43ef-a20a-1a880b39ef54)
 
-##Analysis based on our questionnaire:
+## Analysis based on our questionnaire:
 
 ![Снимок экрана 2024-11-04 231341](https://github.com/user-attachments/assets/1e3679d7-16b5-4d8b-b320-ad9646dfe9d2)
 ![Снимок экрана 2024-11-04 231401](https://github.com/user-attachments/assets/6f3b242c-33d4-4ed2-869b-2a26ce5405d2)
