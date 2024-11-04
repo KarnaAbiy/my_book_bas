@@ -3,8 +3,11 @@ My group is planning to create an online library that will provide easy access t
 
 # Our team
 Our team consists of three people, namely:
+
 Karmyshev Abiy
+
 Allonbaev Sardor
+
 Tashmatov Bekmamat
 
 # This is my team's general plan:
