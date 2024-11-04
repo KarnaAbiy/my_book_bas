@@ -8,9 +8,10 @@ Allonbaev Sardor
 Tashmatov Bekmamat
 
 # This is my team's general plan:
-![Снимок экрана 2024-11-04 220414](https://github.com/user-attachments/assets/b06d0bab-9cbb-4ba1-98f1-4ffe63e1d0cb)
 link is here: [plan](https://www.figma.com/board/nff6u4ZaHH78uIwsFE6C8H/Untitled?node-id=0-1&t=GpElfvKa6EFPdJJy-1)
+![Снимок экрана 2024-11-04 220414](https://github.com/user-attachments/assets/b06d0bab-9cbb-4ba1-98f1-4ffe63e1d0cb)
 
+# Figma design
 ![Screenshot (11)](https://github.com/user-attachments/assets/94975437-6b4f-4450-a156-ed97a84719f4)
 ![Screenshot (1)](https://github.com/user-attachments/assets/f1fc4aa9-15bb-47be-ada8-144cdfd7bf49)
 ![Screenshot (3)](https://github.com/user-attachments/assets/5271d2cc-4b73-4c15-90fd-653440d0776d)
