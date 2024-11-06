@@ -24,6 +24,6 @@ Here is figma [link](https://www.figma.com/design/Hd8Gn4jtMBjlhd3WEqbbI9/HCI?nod
 
 ## Analysis based on our questionnaire:
 
-![Снимок экрана 2024-11-04 231341](https://github.com/user-attachments/assets/1e3679d7-16b5-4d8b-b320-ad9646dfe9d2)
-![Снимок экрана 2024-11-04 231401](https://github.com/user-attachments/assets/6f3b242c-33d4-4ed2-869b-2a26ce5405d2)
-
+![Снимок экрана 2024-11-06 170158](https://github.com/user-attachments/assets/3379c8c7-0ce6-4e31-be1b-46fbaffc614b)
+![Снимок экрана 2024-11-06 170246](https://github.com/user-attachments/assets/4a470a8c-a268-4a5b-a8b0-9fa31602d76b)
+![Снимок экрана 2024-11-06 170329](https://github.com/user-attachments/assets/5a4f6c73-6b2c-4b84-8d31-7d1edaef9f6c)
