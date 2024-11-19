@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.1/papaparse.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <h2>MY BOOK BASE</h2>
+            <nav>
+                <ul>
+                    <li><a href="/htmL/index.html">🏠 Home</a></li>
+                    <li><a href="/htmL/search.html">🔍 Search</a></li>
+                    <li><a href="/htmL/my-shelf.html">📚 My Shelf</a></li>
+                </ul>
+            </nav>
+        </aside>
+        <main class="main-content">
+            <header>
+                <input type="text" id="search-input" placeholder="Search for books...">
+                <button id="search-btn">Search</button>
+            </header>
+            <section>
+                <h2>Results:</h2>
+                <div class="books-grid" id="books-grid"></div>
+            </section>
+        </main>
+    </div>
+
+    <script src="/js/search.js"></script>
+</body>
+</html>
