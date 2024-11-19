@@ -9,27 +9,24 @@
 <body>
     <div class="container">
         <aside class="sidebar">
-            <h2>MY BOOK BAS</h2>
+            <h2>MY BOOK BASE</h2>
             <nav>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="search.html">Search</a></li>
-                    <li><a href="my-shelf.html">My Shelf</a></li>
+                    <li><a href="/htmL/index.html">🏠 Home</a></li>
+                    <li><a href="/htmL/search.html">🔍 Search</a></li>
+                    <li><a href="/htmL/my-shelf.html">📚 My Shelf</a></li>
                 </ul>
             </nav>
         </aside>
         <main class="main-content">
-            <header>
-                <a href="index.html">&larr; Back to results</a>
-                <h1>Don't Make Me Think</h1>
-            </header>
-            <section>
-                <div class="book-card" style="height: 300px; margin-bottom: 20px;"></div>
-                <p>By Steve Krug, 2000</p>
-                <button>Read Now</button>
-                <button>Add to my shelf</button>
-            </section>
+            <div id="book-preview">
+                <h1 id="book-title">Loading...</h1>
+                <p id="book-author">Author: Loading...</p>
+                <p id="book-category">Category: Loading...</p>
+            </div>
         </main>
     </div>
+
+    <script src="/js/book-preview.js"></script>
 </body>
 </html>
