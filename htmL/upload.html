@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Book Information</title>
+    <link rel="stylesheet" href="/css/upload.css">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <img src="/images/logo/logoBAS.png" class="logoBAS">
+            <nav>
+                <ul>
+                    <li><a href="/html/index.html">🏠 Home</a></li>
+                    <li><a href="/html/search.html">🔍 Search</a></li>
+                    <li><a href="/html/my-shelf.html">📚 My Shelf</a></li>
+                </ul>
+            </nav>
+        </aside>
+        <main class="main-content">
+            <header>
+                <h1 class="animated-text">Welcome to My Book BAS</h1>
+            </header>
+            <section id="upload-section">
+                <h2>Upload Book Information</h2>
+                <form id="upload-form">
+                    <label for="book-title">Title:</label>
+                    <input type="text" id="book-title" name="book-title" required>
+                    
+                    <label for="book-author">Author:</label>
+                    <input type="text" id="book-author" name="book-author" required>
+                    
+                    <label for="book-category">Category:</label>
+                    <input type="text" id="book-category" name="book-category" required>
+                    
+                    <label for="book-cover">Cover:</label>
+                    <input type="file" id="book-cover" name="book-cover" accept="image/*" required>
+                    
+                    <label for="book-description">Description:</label>
+                    <textarea id="book-description" name="book-description" required></textarea>
+                    
+                    <button type="submit">Upload Book</button>
+                </form>
+            </section>
+        </main>
+    </div>
+    <script src="/js/upload.js"></script>
+</body>
+</html>
