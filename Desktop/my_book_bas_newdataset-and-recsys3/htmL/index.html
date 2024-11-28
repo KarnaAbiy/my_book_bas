@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.1/papaparse.min.js"></script>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="container">
+            <aside class="sidebar">
+                <img src="/images/logo/logoBAS1.png" class="logoBAS">
+                <nav>
+                    <ul>
+                        <li><a href="/html/index.html">🏠 Home</a></li>
+                        <li><a href="/html/search.html">🔍 Search</a></li>
+                        <li><a href="/html/my-shelf.html">📚 My Shelf</a></li>
+                        <li><a href="/html/upload.html">📥 Upload</a></li>
+                    </ul>
+                </nav>
+            </aside>
+            <main class="main-content">
+                <header>
+                    <h1 class="animated-text">Welcome to My Book BAS</h1>
+                    <div class="search-wrapper">
+                        <input type="text" id="search-input" placeholder="Search for books...">
+                        <button id="search-btn">Search</button>
+                    </div>
+                </header>
+                <section id="search-results-section" style="display: none;">
+                    <h2>Search Results:</h2>
+                    <div class="books-grid" id="search-books-grid"></div>
+                </section>
+                <section id="reviews-section">
+                    <h2>Recommended:</h2>
+                    <div class="reviews-grid" id="reviews-grid"></div>
+                </section>
+                <section id="shelf-categories-section">
+                    <h2>Recommendations Based on Your Shelf:</h2>
+                    <div class="reviews-grid" id="shelf-categories-grid"></div>
+                </section>
+                
+            </main>
+        </div>
+    </div>
+    <script src="/js/footer.js"></script>
+    <script src="/js/main.js"></script>
+</body>
+</html>
