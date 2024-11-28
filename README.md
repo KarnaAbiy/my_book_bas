@@ -11,6 +11,6 @@ link is here: [plan](https://www.figma.com/board/nff6u4ZaHH78uIwsFE6C8H/Untitled
 
 ## Analysis based on our questionnaire:
 
-![Снимок экрана 2024-11-06 170158](https://github.com/user-attachments/assets/3379c8c7-0ce6-4e31-be1b-46fbaffc614b)
-![Снимок экрана 2024-11-06 170246](https://github.com/user-attachments/assets/4a470a8c-a268-4a5b-a8b0-9fa31602d76b)
-![Снимок экрана 2024-11-06 170329](https://github.com/user-attachments/assets/5a4f6c73-6b2c-4b84-8d31-7d1edaef9f6c)
+![Снимок экрана 2024-11-28 184826](https://github.com/user-attachments/assets/d944e05c-3aa5-4aee-b6c8-9d9a962e1e33)
+![Снимок экрана 2024-11-28 184837](https://github.com/user-attachments/assets/c5586844-152e-48ca-af08-aeb671b86852)
+![Снимок экрана 2024-11-28 184857](https://github.com/user-attachments/assets/a01e4f2d-1508-41f0-9b40-edab784be32a)
