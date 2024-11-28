@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Book Information</title>
+    <link rel="stylesheet" href="/css/upload.css">
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <img src="/images/logo/logoBAS.png" class="logoBAS">
+            <nav>
+                <ul>
+                    <li><a href="/html/index.html">🏠 Home</a></li>
+                    <li><a href="/html/search.html">🔍 Search</a></li>
+                    <li><a href="/html/my-shelf.html">📚 My Shelf</a></li>
+                    <li><a href="/html/upload.html">📥 Upload</a></li>
+                </ul>
+            </nav>
+        </aside>
+        <main class="main-content">
+            <header>
+                <h1 class="animated-text">Welcome to My Book BAS</h1>
+            </header>
+            <section id="upload-section">
+                <h2>Upload Book Information</h2>
+                <form id="upload-form">
+                    <input type="text" id="upload-title" placeholder="Название книги" required>
+                    <input type="text" id="upload-author" placeholder="Автор" required>
+                    <input type="text" id="upload-category" placeholder="Категория" required>
+                    <input type="file" id="upload-cover" accept="image/*" required>
+                    <button type="submit">Загрузить книгу</button>
+                    <button type="button" id="add-to-shelf-btn">Добавить в "My Shelf"</button>
+                </form>
+            </section>
+        </main>
+    </div>
+    <script src="/js/upload.js"></script>
+</body>
+</html>
